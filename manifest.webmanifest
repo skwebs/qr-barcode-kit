@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "QR Scanner",
-  "short_name": "QR Scanner",
+  "name": "QR Barcode Kit",
+  "short_name": "QR Barcode",
   "description": "Private QR scanner and QR code creator.",
   "start_url": "./",
   "scope": "./",
